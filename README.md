@@ -37,18 +37,18 @@ Another coloring is made depending on the stage of each candidate:
 so that it's clear what actions should be taken for which people. The data can also be sorted by "STAGE", which will move the rejected candidates to the end.
 
 ## Weekly availability
-When gathering a weekly time availability via Google Forms, in such format:
+When gathering a weekly time availability of candidates, e.g. via Google Forms, in such format:
 <br>
-![Weekly availability - Google Forms](screenshots/weekly-availability1)
-<br>
+![Weekly availability - Google Forms](screenshots/weekly-availability1.png)
+<br><br>
 The output looks like this:
 <br>
-!["Weekly availability" sheet (1)](screenshots/weekly-availability2)
+!["Weekly availability" sheet (1)](screenshots/weekly-availability2.png)
 <br>
 which makes it extremely hard to find a time slot when most people are available.
-<br>
+<br><br>
 The "Weekly availability" sheet converts this data into a much more accessible form:
 <br>
-!["Weekly availability" sheet (2)](screenshots/weekly-availability3)
+!["Weekly availability" sheet (2)](screenshots/weekly-availability3.png)
 <br>
-<u> Where: green - available, red - unavailable. </u>
+<i> Where: green - available, red - unavailable. </i>

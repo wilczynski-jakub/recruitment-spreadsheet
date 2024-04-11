@@ -24,6 +24,8 @@ we're getting this:
 <br>
 Thanks to certain formulas (e.g. showing the candidates' age instead of a date of birth, merging all columns with phone numbers, etc.) this format is much more accessible for the recruiters.
 <br><br>
+<i>(Of course, this can be done through formulas automatically - without copying; however: copying is a much safer option, as the order of the "raw data" won't affect this sheet. Moreoever, the recruiters don't have to be aware of all the formulas.)</i>
+<br><br>
 Next step is to assign a recruiter to each candidate:
 <br>
 !["CANDIDATES" sheet (3)](screenshots/candidates3.png)
@@ -35,6 +37,8 @@ Another coloring is made depending on the stage of each candidate:
 !["CANDIDATES" sheet (4)](screenshots/candidates4.png)
 <br>
 so that it's clear what actions should be taken for which people. The data can also be sorted by "STAGE", which will move the rejected candidates to the end.
+<br><br>
+<i>Note: it has been decided that stage colors will override the others, given that the candidates-to-recruiters allocation becomes much less important in the latter stages of recruitment.</i>
 
 ## Weekly availability
 When gathering a weekly time availability of candidates, e.g. via Google Forms, in such format:
